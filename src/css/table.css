@@ -1,0 +1,44 @@
+.thoughts,
+.task {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(4, 19, 44);
+    color: bisque;
+}
+
+td {
+    text-align: left;
+    padding-left: 10px;
+    background-color: rgb(209, 222, 242);
+    color: rgb(2, 2, 2);
+}
+
+.btn {
+    text-align: center;
+    width: 80px;
+    font-size: 13px;
+}
+
+li {
+    list-style: none;
+}
+
+.lidate {
+    font-size: x-small;
+}
+
+.lithoughts,
+.litask {
+    font-size: medium;
+}
